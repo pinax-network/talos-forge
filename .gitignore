@@ -1,0 +1,5 @@
+# Ignore specific config files
+kubeconfig
+talosconfig
+deployment.log
+.DS_Store
