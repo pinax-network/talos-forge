@@ -6,6 +6,7 @@ This repository contains a Makefile and associated scripts for managing Talos Ku
 
 Before using these tools, ensure you have the following dependencies installed:
 - `talosctl` (Talos CLI tool)
+- `kubectl` (Kubernetes CLU tool)
 - Other dependencies (checked by `make deps`)
 
 ## Directory Structure
